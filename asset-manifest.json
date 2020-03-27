@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/simple-match-game/static/css/main.d038d717.chunk.css",
+    "main.js": "/simple-match-game/static/js/main.b221d9dd.chunk.js",
+    "main.js.map": "/simple-match-game/static/js/main.b221d9dd.chunk.js.map",
+    "runtime-main.js": "/simple-match-game/static/js/runtime-main.df993e49.js",
+    "runtime-main.js.map": "/simple-match-game/static/js/runtime-main.df993e49.js.map",
+    "static/js/2.7cc2c9b8.chunk.js": "/simple-match-game/static/js/2.7cc2c9b8.chunk.js",
+    "static/js/2.7cc2c9b8.chunk.js.map": "/simple-match-game/static/js/2.7cc2c9b8.chunk.js.map",
+    "index.html": "/simple-match-game/index.html",
+    "precache-manifest.36353296e59953c17b77b66c523b9eac.js": "/simple-match-game/precache-manifest.36353296e59953c17b77b66c523b9eac.js",
+    "service-worker.js": "/simple-match-game/service-worker.js",
+    "static/css/main.d038d717.chunk.css.map": "/simple-match-game/static/css/main.d038d717.chunk.css.map",
+    "static/js/2.7cc2c9b8.chunk.js.LICENSE.txt": "/simple-match-game/static/js/2.7cc2c9b8.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.df993e49.js",
+    "static/js/2.7cc2c9b8.chunk.js",
+    "static/css/main.d038d717.chunk.css",
+    "static/js/main.b221d9dd.chunk.js"
+  ]
+}
