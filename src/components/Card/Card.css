@@ -1,0 +1,61 @@
+.flip-container {
+  width: 100%;
+  height: 100%;
+  border-radius: 8px;
+}
+
+.flip-container.flipped .flipper {
+  background-color: yellowgreen;
+  transform: rotateY(180deg);
+}
+
+.flip-container.solved .flipper{
+  background: linear-gradient(-45deg, #25f1f1, #f39af3, rgb(219, 219, 203), #23d5ab);
+  background-size: 150% 150%;
+  animation: gradient 7s ease infinite;
+}
+
+@keyframes gradient {
+	0% {
+		background-position: 0% 50%;
+	}
+	50% {
+		background-position: 100% 50%;
+	}
+	100% {
+		background-position: 0% 50%;
+  }
+}
+
+.flipper {
+  height: 100%;
+  position: relative;
+  background-color: tomato;
+  border-radius: 8px;
+  transition: 0.5s;
+  transform-style: preserve-3d;
+}
+
+.front,
+.back {
+  backface-visibility: hidden;
+  position: absolute;
+  left: 0;
+  top: 0;
+}
+
+.back {
+  z-index: 2;
+  transform: rotateY(0deg);
+}
+
+.front {
+  transform: rotateY(180deg);
+}
+
+svg {
+  position: absolute;
+  margin: auto;
+  right: 0;
+  bottom: 0;
+}
