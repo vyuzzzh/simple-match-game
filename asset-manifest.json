@@ -1,22 +1,22 @@
 {
   "files": {
     "main.css": "/simple-match-game/static/css/main.eee25db2.chunk.css",
-    "main.js": "/simple-match-game/static/js/main.31adbb8b.chunk.js",
-    "main.js.map": "/simple-match-game/static/js/main.31adbb8b.chunk.js.map",
+    "main.js": "/simple-match-game/static/js/main.339458e7.chunk.js",
+    "main.js.map": "/simple-match-game/static/js/main.339458e7.chunk.js.map",
     "runtime-main.js": "/simple-match-game/static/js/runtime-main.df993e49.js",
     "runtime-main.js.map": "/simple-match-game/static/js/runtime-main.df993e49.js.map",
-    "static/js/2.f149cff4.chunk.js": "/simple-match-game/static/js/2.f149cff4.chunk.js",
-    "static/js/2.f149cff4.chunk.js.map": "/simple-match-game/static/js/2.f149cff4.chunk.js.map",
+    "static/js/2.8d171679.chunk.js": "/simple-match-game/static/js/2.8d171679.chunk.js",
+    "static/js/2.8d171679.chunk.js.map": "/simple-match-game/static/js/2.8d171679.chunk.js.map",
     "index.html": "/simple-match-game/index.html",
-    "precache-manifest.194264f56df6af248f2afbfe3cd8dd6a.js": "/simple-match-game/precache-manifest.194264f56df6af248f2afbfe3cd8dd6a.js",
+    "precache-manifest.bda6d83ed9e8f3755f317d30141e7491.js": "/simple-match-game/precache-manifest.bda6d83ed9e8f3755f317d30141e7491.js",
     "service-worker.js": "/simple-match-game/service-worker.js",
     "static/css/main.eee25db2.chunk.css.map": "/simple-match-game/static/css/main.eee25db2.chunk.css.map",
-    "static/js/2.f149cff4.chunk.js.LICENSE.txt": "/simple-match-game/static/js/2.f149cff4.chunk.js.LICENSE.txt"
+    "static/js/2.8d171679.chunk.js.LICENSE.txt": "/simple-match-game/static/js/2.8d171679.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
     "static/js/runtime-main.df993e49.js",
-    "static/js/2.f149cff4.chunk.js",
+    "static/js/2.8d171679.chunk.js",
     "static/css/main.eee25db2.chunk.css",
-    "static/js/main.31adbb8b.chunk.js"
+    "static/js/main.339458e7.chunk.js"
   ]
 }
