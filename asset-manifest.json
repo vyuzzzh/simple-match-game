@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/simple-match-game/static/css/main.3f95054c.chunk.css",
+    "main.css": "/simple-match-game/static/css/main.f8b09110.chunk.css",
     "main.js": "/simple-match-game/static/js/main.31adbb8b.chunk.js",
     "main.js.map": "/simple-match-game/static/js/main.31adbb8b.chunk.js.map",
     "runtime-main.js": "/simple-match-game/static/js/runtime-main.df993e49.js",
@@ -8,15 +8,15 @@
     "static/js/2.f149cff4.chunk.js": "/simple-match-game/static/js/2.f149cff4.chunk.js",
     "static/js/2.f149cff4.chunk.js.map": "/simple-match-game/static/js/2.f149cff4.chunk.js.map",
     "index.html": "/simple-match-game/index.html",
-    "precache-manifest.e5a00802dacab9ba92937c407796fb12.js": "/simple-match-game/precache-manifest.e5a00802dacab9ba92937c407796fb12.js",
+    "precache-manifest.7dfaa407f4703a475141eb7aa1543a0e.js": "/simple-match-game/precache-manifest.7dfaa407f4703a475141eb7aa1543a0e.js",
     "service-worker.js": "/simple-match-game/service-worker.js",
-    "static/css/main.3f95054c.chunk.css.map": "/simple-match-game/static/css/main.3f95054c.chunk.css.map",
+    "static/css/main.f8b09110.chunk.css.map": "/simple-match-game/static/css/main.f8b09110.chunk.css.map",
     "static/js/2.f149cff4.chunk.js.LICENSE.txt": "/simple-match-game/static/js/2.f149cff4.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
     "static/js/runtime-main.df993e49.js",
     "static/js/2.f149cff4.chunk.js",
-    "static/css/main.3f95054c.chunk.css",
+    "static/css/main.f8b09110.chunk.css",
     "static/js/main.31adbb8b.chunk.js"
   ]
 }

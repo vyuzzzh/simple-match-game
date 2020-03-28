@@ -1,11 +1,11 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "35968eaa7bb3d281704999398b135c9c",
+    "revision": "a3d799e879d5d67763798b95b953a9dd",
     "url": "/simple-match-game/index.html"
   },
   {
-    "revision": "45dea71b8c6557448f52",
-    "url": "/simple-match-game/static/css/main.3f95054c.chunk.css"
+    "revision": "f338281db4e6c5e111d5",
+    "url": "/simple-match-game/static/css/main.f8b09110.chunk.css"
   },
   {
     "revision": "4b851a41aed3b5847313",
@@ -16,7 +16,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/simple-match-game/static/js/2.f149cff4.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "45dea71b8c6557448f52",
+    "revision": "f338281db4e6c5e111d5",
     "url": "/simple-match-game/static/js/main.31adbb8b.chunk.js"
   },
   {
