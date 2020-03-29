@@ -1,6 +1,7 @@
 .score {
   color: tomato;
   font-size: 18px;
+  margin: 10px auto;
   font-family: 'Roboto Mono', monospace;
   -moz-user-select: none;
   -khtml-user-select: none;

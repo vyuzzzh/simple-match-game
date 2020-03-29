@@ -8,7 +8,7 @@
   background-color: rgb(158, 154, 154);
   padding: 2vw;
   border-radius: 8px;
-  margin: 20px;
+  margin: 0 auto;
   /* For IE11, the syntax will be */
   display: -ms-grid;
   -ms-grid-columns: 1fr 1fr 1fr 1fr;
